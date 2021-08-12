@@ -3,7 +3,6 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
   tags:
   - Slash
   - Enemy
@@ -15,9 +14,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Interaction
+  - Slash
+  - Player
   - 
   - 
   - 
@@ -47,4 +46,10 @@ TagManager:
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: MiniMap
+    uniqueID: 2677936165
+    locked: 0
+  - name: HUD
+    uniqueID: 570312099
     locked: 0
