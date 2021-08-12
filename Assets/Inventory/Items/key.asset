@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 521fa60ae30ea5b48b9a8cbc9ed2eae4, type: 3}
+  m_Name: key
+  m_EditorClassIdentifier: 
+  itemId: 0
+  name: Common Key
+  icon: {fileID: 21300000, guid: daf6a0f9da153574889b33e8836fde3f, type: 3}
+  stackQuantity: 1
+  quantity: 1
+  isConsumible: 0
+  isQuestItem: 1
+  isUniqueBuy: 1
+  buyPrice: 100
