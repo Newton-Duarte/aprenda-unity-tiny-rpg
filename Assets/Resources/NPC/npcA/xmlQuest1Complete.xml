@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<npc>
+  <dialog name="Cloak Woman">
+    <texts>
+      <text>Obrigado pela ajuda!</text>
+    </texts>
+  </dialog>
+
+  <end_dialog name="Cloak Woman">
+    <texts>
+      <text>Até logo.</text>
+    </texts>
+  </end_dialog>
+</npc>

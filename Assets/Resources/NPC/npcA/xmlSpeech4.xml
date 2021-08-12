@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<npc back_to="xmlQuest0Complete">
+  <dialog name="Cloak Woman">
+    <texts>
+      <text>Tudo bem então.</text>
+    </texts>
+  </dialog>
+
+  <end_dialog name="Cloak Woman">
+    <texts>
+      <text>Até logo.</text>
+    </texts>
+  </end_dialog>
+</npc>

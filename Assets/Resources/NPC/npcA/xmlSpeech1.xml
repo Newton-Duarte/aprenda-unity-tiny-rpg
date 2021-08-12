@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<npc quest="0">
+  <dialog name="Cloak Woman">
+    <texts>
+      <text>Preciso que mate 10 zombies.</text>
+    </texts>
+  </dialog>
+
+  <dialog name="Leon">
+    <texts>
+      <text>Matar zombies? Deixa comigo, isso é o que eu faço de melhor.</text>
+    </texts>
+  </dialog>
+
+  <end_dialog name="Cloak Woman">
+    <texts>
+      <text>Boa sorte.</text>
+    </texts>
+  </end_dialog>
+
+  <quest_dialog name="Cloak Woman">
+    <texts>
+      <text>Vi aqui que você matou os 10 zombies, parabéns!</text>
+    </texts>
+  </quest_dialog>
+</npc>

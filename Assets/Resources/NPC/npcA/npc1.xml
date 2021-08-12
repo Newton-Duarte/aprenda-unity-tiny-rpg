@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<npc>
+  <dialog name="Cloak Woman">
+    <texts>
+      <text>E ai meu jovem, me chamo npc_name.</text>
+      <text>Tudo tranquilo?</text>
+    </texts>
+  </dialog>
+
+  <dialog name="Leon">
+    <texts>
+      <text>Opa, e ai? Me chamo npc_name.</text>
+      <text>Tudo supimpa!</text>
+    </texts>
+  </dialog>
+
+  <question name="Cloak Woman">
+    <texts>
+      <text>Você gostaria de fazer uma missão para mim?</text>
+    </texts>
+
+    <alternatives>
+      <text name="xmlSpeech1">Sim claro, o que gostaria que eu fizesse?</text>
+      <text name="xmlSpeech2">No momento estou um pouco ocupado.</text>
+    </alternatives>
+  </question>
+
+  <end_dialog name="Cloak Woman">
+    <texts>
+      <text>Massa!</text>
+      <text>Até nunca mais.</text>
+    </texts>
+  </end_dialog>
+</npc>

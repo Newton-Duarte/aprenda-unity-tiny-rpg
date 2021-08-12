@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<npc quest="1">
+  <dialog name="Cloak Woman">
+    <texts>
+      <text>Precisa de uma chave comum.</text>
+    </texts>
+  </dialog>
+
+  <dialog name="Leon">
+    <texts>
+      <text>Certo, chave comum então.</text>
+    </texts>
+  </dialog>
+
+  <end_dialog name="Cloak Woman">
+    <texts>
+      <text>Boa sorte na procura.</text>
+    </texts>
+  </end_dialog>
+
+  <quest_dialog name="Cloak Woman">
+    <texts>
+      <text>Vejo que trouxe a chave comum!</text>
+    </texts>
+  </quest_dialog>
+</npc>
